@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/03_함수정의와_호출/03_함수정의와_호출.iml" filepath="$PROJECT_DIR$/03_함수정의와_호출/03_함수정의와_호출.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_클래스_객체_인터페이스/04_클래스_객체_인터페이스.iml" filepath="$PROJECT_DIR$/04_클래스_객체_인터페이스/04_클래스_객체_인터페이스.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_람다로_프로그래밍/05_람다로_프로그래밍.iml" filepath="$PROJECT_DIR$/05_람다로_프로그래밍/05_람다로_프로그래밍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_코틀린_타입_시스템/06_코틀린_타입_시스템.iml" filepath="$PROJECT_DIR$/06_코틀린_타입_시스템/06_코틀린_타입_시스템.iml" />
     </modules>
   </component>
 </project>
