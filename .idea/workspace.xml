@@ -1,111 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9e5b4f-7410-4f9c-9cc3-d698a40f943a" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9f9e5b4f-7410-4f9c-9cc3-d698a40f943a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08_고차함수_파라미터와_반환_값으로_람다_사용/src/ParameterName.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/InOperator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/RangeTo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="58" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/Iterator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="true" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/StructuralDecomposition.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ComponentN.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/MapInteration.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ByLazy.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/DelegateProperty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="32" column="1" lean-forward="true" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ObservableProperty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" lean-forward="true" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/PlusOperator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,123 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/MemberReference.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/ConstructorReference.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/BoundMemberReference.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/Filter_Map.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/All_Any.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/Count.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/Find.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/GroupBy.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/FlatMap.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/Flatten.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/AsSequence.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/GenerateSequence.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/JavaFunctionalInterface.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/SAMConstructor.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/CreateAlphabetWith.kt" />
-        <option value="$PROJECT_DIR$/05_람다로_프로그래밍/src/Apply.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableType.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullSafe.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullSafeOperation.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/ElvisOperation.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/SafeCastOperation.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NotNullAssertion.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/Let.kt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/Lateinit.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableExtendFunction.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableTypeParameter.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullablePrimitive.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/ConvertNumber.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/Any.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/Unit.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/Nothing.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableTypeCollection.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinCollectionInterface.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinArray.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/CollectionToArray.kt" />
-        <option value="$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinPrimitiveArray.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/CompoundAssignment.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/UnaryMinus.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/PlusOperator.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/CompareTo.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/IndexOperator.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/InOperator.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/RangeTo.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/Iterator.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/StructuralDecomposition.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ComponentN.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/MapInteration.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ByLazy.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/DelegateProperty.kt" />
-        <option value="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ObservableProperty.kt" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="june" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="june" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2482" />
-    <option name="y" value="-94" />
-    <option name="width" value="1440" />
-    <option name="height" value="825" />
-  </component>
+  <component name="ProjectId" id="1j3IfL2cA9tKHzQPtEKYxEH7sGo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kotlin_in_action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_in_action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_in_action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_in_action" type="462c0819:PsiDirectoryNode" />
-              <item name="07_연산자_오버로딩과_기타_관례" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_in_action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_in_action" type="462c0819:PsiDirectoryNode" />
-              <item name="07_연산자_오버로딩과_기타_관례" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -255,18 +56,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/03_함수정의와_호출/src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Kotlin.DelegatePropertyKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -355,6 +144,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -386,13 +176,7 @@
       <workItem from="1602594664181" duration="2853000" />
       <workItem from="1602666464382" duration="2791000" />
       <workItem from="1602818992355" duration="5850000" />
-    </task>
-    <task id="LOCAL-00057" summary="바운드 멤버 참조">
-      <created>1601978266505</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1601978266505</updated>
+      <workItem from="1603026452836" duration="658000" />
     </task>
     <task id="LOCAL-00058" summary="필터와 맵">
       <created>1601979668738</created>
@@ -730,52 +514,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602857796608</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="8장 고차함수: 파라미터와 반환 값으로 람다 사용">
+      <created>1603026512612</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1603026512613</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92101000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-2482" y="-94" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3533424" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32742155" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3298397" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="널이 될수 있는 타입파라미터" />
     <MESSAGE value="널이 될수 있는 원시타입" />
     <MESSAGE value="숫자 변환" />
     <MESSAGE value="Any 타입" />
@@ -800,359 +552,21 @@
     <MESSAGE value="맵 이터레이션" />
     <MESSAGE value="ByLazy" />
     <MESSAGE value="위임 프로퍼티 구현하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="위임 프로퍼티 구현하기" />
+    <MESSAGE value="8장 고차함수: 파라미터와 반환 값으로 람다 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="8장 고차함수: 파라미터와 반환 값으로 람다 사용" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05_람다로_프로그래밍/src/AsSequence.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_람다로_프로그래밍/src/GenerateSequence.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_람다로_프로그래밍/src/JavaFunctionalInterface.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_람다로_프로그래밍/src/SAMConstructor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_람다로_프로그래밍/src/CreateAlphabetWith.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Not_Null_Assertion.java" />
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/pom.xml" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/text/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="253" column="3" lean-forward="true" selection-start-line="253" selection-start-column="3" selection-end-line="253" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullSafeOperation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/ElvisOperation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/SafeCastOperation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NotNullAssertion.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Let.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Lateinit.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableExtendFunction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Sequence.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/text/StringNumberConversions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableTypeParameter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/ReadWrite.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Arrays.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="5573" column="3" lean-forward="true" selection-start-line="5573" selection-start-column="3" selection-end-line="5573" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="76" column="87" selection-start-line="76" selection-start-column="87" selection-end-line="76" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullablePrimitive.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/ConvertNumber.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Any.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinCollectionInterface.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/NullableTypeCollection.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Nothing.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/Unit.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/CollectionToArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_코틀린_타입_시스템/src/KotlinPrimitiveArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/CompoundAssignment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="62" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Ranges.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="710" column="21" selection-start-line="710" selection-start-column="21" selection-end-line="710" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/CompareTo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/IndexOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/comparisons/Comparisons.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/UnaryMinus.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/PlusOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/InOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/RangeTo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="58" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/Iterator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="true" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/StructuralDecomposition.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ComponentN.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/MapInteration.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ByLazy.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/beans/PropertyChangeSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/DelegateProperty.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="32" column="1" lean-forward="true" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/src/ObservableProperty.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1603026512361">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603026512361" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603027135608">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603027135608" />
+    <state x="-1616" y="34" key="new project wizard" timestamp="1603026488037">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-1616" y="34" key="new project wizard/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603026488037" />
   </component>
 </project>
