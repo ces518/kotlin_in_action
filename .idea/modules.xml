@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/06_코틀린_타입_시스템/06_코틀린_타입_시스템.iml" filepath="$PROJECT_DIR$/06_코틀린_타입_시스템/06_코틀린_타입_시스템.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/07_연산자_오버로딩과_기타_관례.iml" filepath="$PROJECT_DIR$/07_연산자_오버로딩과_기타_관례/07_연산자_오버로딩과_기타_관례.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_고차함수_파라미터와_반환_값으로_람다_사용/08_고차함수_파라미터와_반환_값으로_람다_사용.iml" filepath="$PROJECT_DIR$/08_고차함수_파라미터와_반환_값으로_람다_사용/08_고차함수_파라미터와_반환_값으로_람다_사용.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_제네릭스/09_제네릭스.iml" filepath="$PROJECT_DIR$/09_제네릭스/09_제네릭스.iml" />
     </modules>
   </component>
 </project>

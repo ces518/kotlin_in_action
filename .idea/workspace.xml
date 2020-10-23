@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9e5b4f-7410-4f9c-9cc3-d698a40f943a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_고차함수_파라미터와_반환_값으로_람다_사용/src/SiteVisitExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602926895099" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -61,15 +66,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.FunctionReturnFunctionKt">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -182,28 +185,10 @@
       <workItem from="1602666464382" duration="2791000" />
       <workItem from="1602818992355" duration="5850000" />
       <workItem from="1603026452836" duration="913000" />
-      <workItem from="1603115180138" duration="1070000" />
-    </task>
-    <task id="LOCAL-00060" summary="Count">
-      <created>1601979749705</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1601979749705</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Find">
-      <created>1601982300379</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1601982300379</updated>
-    </task>
-    <task id="LOCAL-00062" summary="GroupBy">
-      <created>1601982312781</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1601982312781</updated>
+      <workItem from="1603115180138" duration="1192000" />
+      <workItem from="1603202019107" duration="167000" />
+      <workItem from="1603202360493" duration="2550000" />
+      <workItem from="1603448690089" duration="452000" />
     </task>
     <task id="LOCAL-00063" summary="GroupBy">
       <created>1601982630048</created>
@@ -527,16 +512,34 @@
       <option name="project" value="LOCAL" />
       <updated>1603115592053</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="사이트 방문 데이터 분석 예제">
+      <created>1603116346252</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1603116346252</updated>
+    </task>
+    <task id="LOCAL-00110" summary="인라인 함수">
+      <created>1603206041683</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1603206041684</updated>
+    </task>
+    <task id="LOCAL-00111" summary="인라인 노 인라인">
+      <created>1603206053842</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1603206053842</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Any 타입" />
-    <MESSAGE value="Unit 타입" />
-    <MESSAGE value="Nothing 반환 타입" />
     <MESSAGE value="널이 올수 있는 타입 컬렉션" />
     <MESSAGE value="코틀린 컬렉션 인터페이스" />
     <MESSAGE value="코틀린 배열" />
@@ -559,17 +562,36 @@
     <MESSAGE value="8장 고차함수: 파라미터와 반환 값으로 람다 사용" />
     <MESSAGE value="파라미터 네임" />
     <MESSAGE value="함수를 반환하는 함수" />
-    <option name="LAST_COMMIT_MESSAGE" value="함수를 반환하는 함수" />
+    <MESSAGE value="사이트 방문 데이터 분석 예제" />
+    <MESSAGE value="인라인 함수" />
+    <MESSAGE value="인라인 노 인라인" />
+    <option name="LAST_COMMIT_MESSAGE" value="인라인 노 인라인" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1603115591898">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1603206053766">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603115591898" />
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603115599754">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603206053766" />
+    <state width="1116" height="312" key="GridCell.Tab.0.bottom" timestamp="1603116373862">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603115599754" />
+    <state width="1116" height="312" key="GridCell.Tab.0.bottom/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373862" />
+    <state width="1116" height="312" key="GridCell.Tab.0.center" timestamp="1603116373861">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state width="1116" height="312" key="GridCell.Tab.0.center/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373861" />
+    <state width="1116" height="312" key="GridCell.Tab.0.left" timestamp="1603116373861">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state width="1116" height="312" key="GridCell.Tab.0.left/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373861" />
+    <state width="1116" height="312" key="GridCell.Tab.0.right" timestamp="1603116373862">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state width="1116" height="312" key="GridCell.Tab.0.right/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373862" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603206075801">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603206075801" />
     <state x="-1616" y="34" key="new project wizard" timestamp="1603026488037">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
