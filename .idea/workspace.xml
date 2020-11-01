@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9e5b4f-7410-4f9c-9cc3-d698a40f943a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/09_제네릭스/src/TypeProjection.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <recent name="$PROJECT_DIR$/03_함수정의와_호출/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionReturnFunctionKt">
+  <component name="RunManager" selected="Kotlin.VarianceKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -73,19 +74,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComponentNKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="07_연산자_오버로딩과_기타_관례" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ComponentNKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GenericExtendPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="09_제네릭스" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GenericExtendPropertyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapInterationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="07_연산자_오버로딩과_기타_관례" />
       <option name="VM_PARAMETERS" />
@@ -129,14 +130,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StructuralDecompositionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="07_연산자_오버로딩과_기타_관례" />
+    <configuration name="VarianceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="09_제네릭스" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="StructuralDecompositionKt" />
+      <option name="MAIN_CLASS_NAME" value="VarianceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarianceKt" />
+        <item itemvalue="Kotlin.GenericExtendPropertyKt" />
         <item itemvalue="Kotlin.FunctionReturnFunctionKt" />
         <item itemvalue="Kotlin.DelegatePropertyKt" />
         <item itemvalue="Kotlin.MapInterationKt" />
-        <item itemvalue="Kotlin.ComponentNKt" />
-        <item itemvalue="Kotlin.StructuralDecompositionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -188,91 +189,9 @@
       <workItem from="1603115180138" duration="1192000" />
       <workItem from="1603202019107" duration="167000" />
       <workItem from="1603202360493" duration="2550000" />
-      <workItem from="1603448690089" duration="452000" />
-    </task>
-    <task id="LOCAL-00063" summary="GroupBy">
-      <created>1601982630048</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1601982630049</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Flatten">
-      <created>1601982845052</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1601982845052</updated>
-    </task>
-    <task id="LOCAL-00065" summary="asSequence">
-      <created>1601991646246</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1601991646246</updated>
-    </task>
-    <task id="LOCAL-00066" summary="generateSequence">
-      <created>1601992412837</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1601992412837</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Java FunctionalInterface">
-      <created>1602069525820</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1602069525821</updated>
-    </task>
-    <task id="LOCAL-00068" summary="SAM 생성자">
-      <created>1602071562766</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1602071562766</updated>
-    </task>
-    <task id="LOCAL-00069" summary="with 와 수신객체">
-      <created>1602072312156</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1602072312156</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Apply">
-      <created>1602074413366</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1602074413366</updated>
-    </task>
-    <task id="LOCAL-00071" summary="6장 코틀린 타입 시스템">
-      <created>1602147357696</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1602147357698</updated>
-    </task>
-    <task id="LOCAL-00072" summary="널이 올 수 있는 타입">
-      <created>1602150517699</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1602150517699</updated>
-    </task>
-    <task id="LOCAL-00073" summary="널 안전 연산자">
-      <created>1602151087717</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1602151087717</updated>
-    </task>
-    <task id="LOCAL-00074" summary="엘비스 연산자">
-      <created>1602151170512</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1602151170512</updated>
+      <workItem from="1603448690089" duration="5414000" />
+      <workItem from="1603631389277" duration="1897000" />
+      <workItem from="1604227179075" duration="4469000" />
     </task>
     <task id="LOCAL-00075" summary="안전한 캐스트 연산자">
       <created>1602152918939</created>
@@ -533,25 +452,97 @@
       <option name="project" value="LOCAL" />
       <updated>1603206053842</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="9장 제네릭스">
+      <created>1603449455663</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1603449455663</updated>
+    </task>
+    <task id="LOCAL-00113" summary="제네릭 함수">
+      <created>1603453831846</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1603453831846</updated>
+    </task>
+    <task id="LOCAL-00114" summary="제네릭 클래스">
+      <created>1603453839290</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1603453839290</updated>
+    </task>
+    <task id="LOCAL-00115" summary="제네릭 확장 프로퍼티">
+      <created>1603453853253</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1603453853253</updated>
+    </task>
+    <task id="LOCAL-00116" summary="제네릭 확장 클래스">
+      <created>1603453906346</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1603453906346</updated>
+    </task>
+    <task id="LOCAL-00117" summary="타입파라미터 제약">
+      <created>1603548740374</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1603548740374</updated>
+    </task>
+    <task id="LOCAL-00118" summary="타입 파라미터 제약 함수">
+      <created>1603631493860</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1603631493860</updated>
+    </task>
+    <task id="LOCAL-00119" summary="여러개의 타입 파라미터 제약">
+      <created>1603631918817</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1603631918817</updated>
+    </task>
+    <task id="LOCAL-00120" summary="널이 될 수 없는 타입 파라미터 제약">
+      <created>1603632968885</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1603632968885</updated>
+    </task>
+    <task id="LOCAL-00121" summary="변성">
+      <created>1604230649964</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1604230649965</updated>
+    </task>
+    <task id="LOCAL-00122" summary="공변성">
+      <created>1604231769312</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1604231769312</updated>
+    </task>
+    <task id="LOCAL-00123" summary="반 공변성">
+      <created>1604233672401</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1604233672401</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="널이 올수 있는 타입 컬렉션" />
-    <MESSAGE value="코틀린 컬렉션 인터페이스" />
-    <MESSAGE value="코틀린 배열" />
-    <MESSAGE value="컬렉션을 배열로 변환" />
-    <MESSAGE value="코틀린 원시 배열" />
-    <MESSAGE value="7장 연산자 오버로딩과 기타 관례" />
-    <MESSAGE value="이항 연산자 오버로딩" />
-    <MESSAGE value="복합 대입 연산자 오버로딩" />
-    <MESSAGE value="단항 연산자 오버로딩" />
-    <MESSAGE value="CompareTo 함수와 관례" />
-    <MESSAGE value="인덱스 연산자" />
-    <MESSAGE value="In 연산자" />
     <MESSAGE value="RangeTo" />
     <MESSAGE value="이터레이터" />
     <MESSAGE value="구조분해" />
@@ -565,36 +556,56 @@
     <MESSAGE value="사이트 방문 데이터 분석 예제" />
     <MESSAGE value="인라인 함수" />
     <MESSAGE value="인라인 노 인라인" />
-    <option name="LAST_COMMIT_MESSAGE" value="인라인 노 인라인" />
+    <MESSAGE value="9장 제네릭스" />
+    <MESSAGE value="제네릭 함수" />
+    <MESSAGE value="제네릭 클래스" />
+    <MESSAGE value="제네릭 확장 프로퍼티" />
+    <MESSAGE value="제네릭 확장 클래스" />
+    <MESSAGE value="타입파라미터 제약" />
+    <MESSAGE value="타입 파라미터 제약 함수" />
+    <MESSAGE value="여러개의 타입 파라미터 제약" />
+    <MESSAGE value="널이 될 수 없는 타입 파라미터 제약" />
+    <MESSAGE value="변성" />
+    <MESSAGE value="공변성" />
+    <MESSAGE value="반 공변성" />
+    <option name="LAST_COMMIT_MESSAGE" value="반 공변성" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1603206053766">
+    <state x="-2036" y="26" key="#com.intellij.ide.util.MemberChooser" timestamp="1603453553194">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603206053766" />
-    <state width="1116" height="312" key="GridCell.Tab.0.bottom" timestamp="1603116373862">
+    <state x="-2036" y="26" key="#com.intellij.ide.util.MemberChooser/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603453553194" />
+    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1604233672292">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1116" height="312" key="GridCell.Tab.0.bottom/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373862" />
-    <state width="1116" height="312" key="GridCell.Tab.0.center" timestamp="1603116373861">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604233672292" />
+    <state width="1192" height="230" key="GridCell.Tab.0.bottom" timestamp="1603548766876">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1116" height="312" key="GridCell.Tab.0.center/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373861" />
-    <state width="1116" height="312" key="GridCell.Tab.0.left" timestamp="1603116373861">
+    <state width="1192" height="230" key="GridCell.Tab.0.bottom/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766876" />
+    <state width="1192" height="230" key="GridCell.Tab.0.center" timestamp="1603548766875">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1116" height="312" key="GridCell.Tab.0.left/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373861" />
-    <state width="1116" height="312" key="GridCell.Tab.0.right" timestamp="1603116373862">
+    <state width="1192" height="230" key="GridCell.Tab.0.center/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766875" />
+    <state width="1192" height="230" key="GridCell.Tab.0.left" timestamp="1603548766874">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1116" height="312" key="GridCell.Tab.0.right/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603116373862" />
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603206075801">
+    <state width="1192" height="230" key="GridCell.Tab.0.left/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766874" />
+    <state width="1192" height="230" key="GridCell.Tab.0.right" timestamp="1603548766875">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603206075801" />
-    <state x="-1616" y="34" key="new project wizard" timestamp="1603026488037">
+    <state width="1192" height="230" key="GridCell.Tab.0.right/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766875" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603632974907">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1616" y="34" key="new project wizard/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603026488037" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603632974907" />
+    <state x="-2340" y="-9" width="1034" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603453788036">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-2340" y="-9" width="1034" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603453788036" />
+    <state x="-1616" y="34" key="new project wizard" timestamp="1603449423936">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-1616" y="34" key="new project wizard/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603449423936" />
   </component>
 </project>
