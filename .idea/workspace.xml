@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9e5b4f-7410-4f9c-9cc3-d698a40f943a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09_제네릭스/src/TypeProjection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__9_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_애노테이션과_리플렉션/10_애노테이션과_리플렉션.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_애노테이션과_리플렉션/src/Deprecated.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +49,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602926895099" />
@@ -67,13 +71,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.VarianceKt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,14 +197,8 @@
       <workItem from="1603202360493" duration="2550000" />
       <workItem from="1603448690089" duration="5414000" />
       <workItem from="1603631389277" duration="1897000" />
-      <workItem from="1604227179075" duration="4469000" />
-    </task>
-    <task id="LOCAL-00075" summary="안전한 캐스트 연산자">
-      <created>1602152918939</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1602152918939</updated>
+      <workItem from="1604227179075" duration="4528000" />
+      <workItem from="1605012705358" duration="129000" />
     </task>
     <task id="LOCAL-00076" summary="NotNull 단언문">
       <created>1602153559333</created>
@@ -536,14 +536,20 @@
       <option name="project" value="LOCAL" />
       <updated>1604233672401</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="타입 프로젝션">
+      <created>1604235047732</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1604235047732</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RangeTo" />
     <MESSAGE value="이터레이터" />
     <MESSAGE value="구조분해" />
     <MESSAGE value="컴포넌트 함수" />
@@ -568,44 +574,45 @@
     <MESSAGE value="변성" />
     <MESSAGE value="공변성" />
     <MESSAGE value="반 공변성" />
-    <option name="LAST_COMMIT_MESSAGE" value="반 공변성" />
+    <MESSAGE value="타입 프로젝션" />
+    <option name="LAST_COMMIT_MESSAGE" value="타입 프로젝션" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-2036" y="26" key="#com.intellij.ide.util.MemberChooser" timestamp="1603453553194">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
     <state x="-2036" y="26" key="#com.intellij.ide.util.MemberChooser/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603453553194" />
-    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1604233672292">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2" timestamp="1604235047643">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604233672292" />
-    <state width="1192" height="230" key="GridCell.Tab.0.bottom" timestamp="1603548766876">
+    <state x="-1608" y="-42" key="CommitChangelistDialog2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235047643" />
+    <state width="1318" height="275" key="GridCell.Tab.0.bottom" timestamp="1604235095306">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1192" height="230" key="GridCell.Tab.0.bottom/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766876" />
-    <state width="1192" height="230" key="GridCell.Tab.0.center" timestamp="1603548766875">
+    <state width="1318" height="275" key="GridCell.Tab.0.bottom/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235095306" />
+    <state width="1318" height="275" key="GridCell.Tab.0.center" timestamp="1604235095305">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1192" height="230" key="GridCell.Tab.0.center/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766875" />
-    <state width="1192" height="230" key="GridCell.Tab.0.left" timestamp="1603548766874">
+    <state width="1318" height="275" key="GridCell.Tab.0.center/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235095305" />
+    <state width="1318" height="275" key="GridCell.Tab.0.left" timestamp="1604235095304">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1192" height="230" key="GridCell.Tab.0.left/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766874" />
-    <state width="1192" height="230" key="GridCell.Tab.0.right" timestamp="1603548766875">
+    <state width="1318" height="275" key="GridCell.Tab.0.left/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235095304" />
+    <state width="1318" height="275" key="GridCell.Tab.0.right" timestamp="1604235095305">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state width="1192" height="230" key="GridCell.Tab.0.right/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603548766875" />
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603632974907">
+    <state width="1318" height="275" key="GridCell.Tab.0.right/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235095305" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2" timestamp="1604235052230">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603632974907" />
+    <state x="-1679" y="111" key="Vcs.Push.Dialog.v2/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1604235052230" />
     <state x="-2340" y="-9" width="1034" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603453788036">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
     <state x="-2340" y="-9" width="1034" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603453788036" />
-    <state x="-1616" y="34" key="new project wizard" timestamp="1603449423936">
+    <state x="-1616" y="34" key="new project wizard" timestamp="1605012724101">
       <screen x="-2560" y="-157" width="2560" height="1057" />
     </state>
-    <state x="-1616" y="34" key="new project wizard/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1603449423936" />
+    <state x="-1616" y="34" key="new project wizard/-2560.-157.2560.1057/0.23.1440.825@-2560.-157.2560.1057" timestamp="1605012724101" />
   </component>
 </project>
